@@ -2,7 +2,8 @@
 
 ```bash
 nix-shell --command "cabal configure"
-cabal build```
+cabal build
+```
 
 Applying parser combinators and free monads to a basic problem.
 
